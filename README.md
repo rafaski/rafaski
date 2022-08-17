@@ -10,6 +10,7 @@
   <li><strong>automation QA</strong> with selenium and postman</li>
   <li><strong>databases</strong> with postgresql, sqlite and mysql</li>
   <li><strong>AWS Cloud</strong> with RDS, S3, DMS, Lambda, Glue, IAM, EC2</li>
+  <li><strong>AWS CLI Automation</strong> with boto3, click and serverless</li>
 </ul>
 
 👀 I’m interested in **Data Engineering, Big Data and Cloud Engineering**
