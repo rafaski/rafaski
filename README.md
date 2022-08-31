@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafal</h1>
-<h3 align="center">Data Engineering / Big Data / Automation QA wit Python, Scala and AWS</h3>
+<h3 align="center">Data Engineering & Big Data with Python, Scala and AWS</h3>
 
 🔭 Hands-on experience with: 
 <ul>
