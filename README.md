@@ -3,14 +3,14 @@
 
 🔭 Hands-on experience with: 
 <ul>
+  <li><strong>AWS Cloud</strong> with RDS, S3, DMS, Lambda, Glue, IAM, EC2</li>
+  <li><strong>AWS CLI Automation</strong> with boto3, click and serverless</li>
   <li><strong>python web and desktop apps</strong> with flask, thinter and opencv</li>
   <li><strong>data science</strong> with pandas, numpy and sklearn</li>
   <li><strong>big data</strong> with python, scala, (py)spark and AWS</li>
   <li><strong>data visualisation</strong> with bokeh, folium, matplotlib, seaborn and plotly</li>
   <li><strong>automation QA</strong> with selenium and postman</li>
   <li><strong>databases</strong> with postgresql, sqlite and mysql</li>
-  <li><strong>AWS Cloud</strong> with RDS, S3, DMS, Lambda, Glue, IAM, EC2</li>
-  <li><strong>AWS CLI Automation</strong> with boto3, click and serverless</li>
 </ul>
 
 👀 I’m interested in **Data Engineering, Big Data and Cloud Engineering**
