@@ -3,7 +3,7 @@
 
 🔭 Hands-on experience with: 
 <ul>
-  <li><strong>scala Apps</strong> with Akka and Spark</li>
+  <li><strong>scala apps</strong> with Akka and Spark</li>
   <li><strong>AWS Cloud</strong> with RDS, S3, DMS, Lambda, Glue, IAM, EC2</li>
   <li><strong>AWS CLI Automation</strong> with boto3, click and serverless</li>
   <li><strong>python web and desktop apps</strong> with flask, thinter and opencv</li>
@@ -20,7 +20,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
