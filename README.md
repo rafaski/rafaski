@@ -3,7 +3,7 @@
 
 🔭 Hands-on experience with: 
 <ul>
-  <li><strong>Scala Apps</strong> with Akka and Spark</li>
+  <li><strong>scala Apps</strong> with Akka and Spark</li>
   <li><strong>AWS Cloud</strong> with RDS, S3, DMS, Lambda, Glue, IAM, EC2</li>
   <li><strong>AWS CLI Automation</strong> with boto3, click and serverless</li>
   <li><strong>python web and desktop apps</strong> with flask, thinter and opencv</li>
