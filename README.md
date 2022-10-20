@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafal</h1>
-<h3 align="center">Data Engineering & Big Data with Python, Scala and AWS</h3>
+<h3 align="center">Python and Scala developer with AWS</h3>
 
 🔭 Hands-on experience with: 
 <ul>
@@ -16,7 +16,7 @@
 
 👀 I’m interested in **Data Engineering, Big Data and Cloud Engineering**
 
-🌱 I’m currently learning: **Scala and MongoDB**
+🌱 I’m currently learning: **Scala and Akka**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
