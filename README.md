@@ -11,7 +11,7 @@
   <li><strong>Data science</strong> with pandas, numpy and sklearn</li>
   <li><strong>Big data</strong> with python, scala, (py)spark and AWS</li>
   <li><strong>Data visualisation</strong> with bokeh, folium, matplotlib, seaborn and plotly</li>
-  <li><strong>Automation QA</strong> with selenium and postman</li>
+  <li><strong>Testing</strong> with selenium,postman and insomnia</li>
   <li><strong>Scala apps</strong> with Akka and Spark</li>  
 </ul>
 
