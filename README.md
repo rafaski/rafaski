@@ -5,7 +5,7 @@
 <ul>
   <li><strong>Python web and desktop apps</strong></li>
   <li><strong>REST API</strong> with fastAPI and flask</li>
-  <li><strong>Databases</strong> with redis, postgresql, sqlite and mysql</li>
+  <li><strong>Databases</strong> with redis, mongo db, postgresql, sqlite and mysql</li>
   <li><strong>AWS Cloud</strong> with RDS, S3, DMS, Lambda, Glue, IAM, EC2</li>
   <li><strong>AWS CLI Automation</strong> with boto3, click and serverless</li>
   <li><strong>Data science</strong> with pandas, numpy and sklearn</li>
