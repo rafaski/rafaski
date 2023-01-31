@@ -9,7 +9,7 @@
   <li><strong>AWS Cloud</strong> with RDS, S3, DMS, Lambda, Glue, IAM, EC2</li>
   <li><strong>AWS CLI Automation</strong> with boto3, click and serverless</li>
   <li><strong>Data science</strong> with pandas, numpy and sklearn</li>
-  <li><strong>Big data</strong> with python, scala, (py)spark and AWS</li>
+  <li><strong>Big data</strong> with python, pyspark and AWS</li>
   <li><strong>Data visualisation</strong> with bokeh, folium, matplotlib, seaborn and plotly</li>
   <li><strong>Testing</strong> with selenium, postman, insomnia and pytest</li>
 </ul>
