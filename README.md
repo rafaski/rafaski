@@ -3,7 +3,6 @@
 
 🔭 Hands-on experience with: 
 <ul>
-  <li><strong>Python web and desktop apps</strong></li>
   <li><strong>REST API</strong> with fastAPI and flask</li>
   <li><strong>Databases</strong> with redis, mongo db, postgresql, sqlite and mysql</li>
   <li><strong>Web scraping</strong> with beautifulSoup and selenium</li>
