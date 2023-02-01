@@ -6,12 +6,12 @@
   <li><strong>REST API</strong> with fastAPI and flask</li>
   <li><strong>Databases</strong> with redis, mongo db, postgresql, sqlite and mysql</li>
   <li><strong>Web scraping</strong> with beautifulSoup and selenium</li>
+  <li><strong>Testing</strong> with selenium, postman, insomnia and pytest</li>
   <li><strong>AWS Cloud</strong> with RDS, S3, DMS, Lambda, Glue, IAM, EC2</li>
   <li><strong>AWS CLI Automation</strong> with boto3, click and serverless</li>
   <li><strong>Data science</strong> with pandas, numpy and sklearn</li>
   <li><strong>Big data</strong> with python, pyspark and AWS</li>
   <li><strong>Data visualisation</strong> with bokeh, folium, matplotlib, seaborn and plotly</li>
-  <li><strong>Testing</strong> with selenium, postman, insomnia and pytest</li>
 </ul>
 
 👀 I’m interested in **Building RESTful APIs with FastAPI**
