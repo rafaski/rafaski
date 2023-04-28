@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rafal</h1>
 <h3 align="center">Python Backend Engineer</h3>
-<h3 align="center">Data scraping | FastAPI | AWS</h3>
 
 🔭 Hands-on experience with: 
 <ul>
   <li><strong>REST API</strong> with fastAPI and flask</li>
   <li><strong>Databases</strong> with redis, mongo db, postgresql, sqlite and mysql</li>
   <li><strong>Web scraping</strong> with beautifulSoup and selenium</li>
-  <li><strong>Testing</strong> with selenium, postman, insomnia and pytest</li>
+  <li><strong>Testing</strong> with postman, insomnia and pytest</li>
   <li><strong>AWS Cloud</strong> with RDS, S3, DMS, Lambda, Glue, IAM, EC2</li>
   <li><strong>AWS CLI Automation</strong> with boto3, click and serverless</li>
   <li><strong>Data science</strong> with pandas, numpy and sklearn</li>
