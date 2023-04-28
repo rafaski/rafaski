@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafal</h1>
-<h3 align="center">Python Backend Engineer. FastAPI and AWS enthusiast.</h3>
+<h3 align="center">Python Backend Engineer</h3>
+<h3 align="center">Data scraping | FastPI | AWS</h3>
 
 🔭 Hands-on experience with: 
 <ul>
@@ -13,8 +14,6 @@
   <li><strong>Big data</strong> with python, pyspark and AWS</li>
   <li><strong>Data visualisation</strong> with bokeh, folium, matplotlib, seaborn and plotly</li>
 </ul>
-
-👀 I’m interested in **Building RESTful APIs with FastAPI**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
