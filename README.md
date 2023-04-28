@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafal</h1>
 <h3 align="center">Python Backend Engineer</h3>
-<h3 align="center">Data scraping | FastPI | AWS</h3>
+<h3 align="center">Data scraping | FastAPI | AWS</h3>
 
 🔭 Hands-on experience with: 
 <ul>
