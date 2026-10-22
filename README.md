@@ -8,9 +8,9 @@
 
 I'm a **Backend Lead & AI Engineer** bridging the gap between technical architecture, team leadership, and hands-on coding:
 
-* 🛠️ **GenAI & Agent Systems:** Architecting production-grade agent workflows (LangGraph, MCP), RAG pipelines, and automated AI quality gates for code reviews & CI/CD.
-* 👥 **Technical Leadership:** Leading backend engineering teams, setting architecture standards, release governance, and engineering practices.
-* 📈 **Scale & Performance:** Optimizing test & CI/CD pipelines, event queues, and multi-database architectures for high-throughput applications.
+* **GenAI & Agent Systems:** Architecting production-grade agent workflows (LangGraph, MCP), RAG pipelines, and automated AI quality gates for code reviews & CI/CD.
+* **Technical Leadership:** Leading backend engineering teams, setting architecture standards, release governance, and engineering practices.
+* **Scale & Performance:** Optimizing test & CI/CD pipelines, event queues, and multi-database architectures for high-throughput applications.
 
 ---
 
