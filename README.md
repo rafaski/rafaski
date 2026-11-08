@@ -16,7 +16,7 @@ I'm a **Backend Lead & AI Engineer** bridging the gap between technical architec
 
 ### 🛠️ Tech Stack
 
-- **AI & GenAI:** `LangGraph` | `LangChain` | `MCP` | `RAG` | `OpenAI SDK` | `LiteLLM`
+- **AI & GenAI:** `LangGraph` | `LangChain` | `MCP` | `RAG` | `OpenAI SDK` | `LiteLLM` | `Amazon Bedrock + AgentCore`
 - **Backend:** `Python` | `FastAPI` | `Pydantic` | `asyncio` | `REST` | `gRPC` | `Celery` | `Typer`
 - **Data & Databases:** `PostgreSQL` | `SQLAlchemy` | `SQLModel` | `MongoDB` | `Redis` | `Elasticsearch` | `pgvector` | `Qdrant`
 - **Cloud & DevOps:** `AWS` | `Docker` | `Kubernetes` | `Terraform` | `Kafka` | `ArgoCD` | `CI/CD`
