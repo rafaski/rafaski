@@ -1,4 +1,4 @@
-## Hi there, I'm a Backend Lead & AI Engineer 👋
+## Hi there, I'm AI Engineer/ Backend Lead 👋
 
 > *Building scalable backend systems, agentic LLM workflows, and AI-driven engineering tools at scale.*
 
@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-I'm a **Backend Lead & AI Engineer** bridging the gap between technical architecture, team leadership, and hands-on coding:
+I'm a **AI Engineer/ Backend Lead** bridging the gap between technical architecture, team leadership, and hands-on coding:
 
 * **GenAI & Agent Systems:** Architecting production-grade agent workflows (LangGraph, MCP), RAG pipelines, and automated AI quality gates for code reviews & CI/CD.
 * **Technical Leadership:** Leading backend engineering teams, setting architecture standards, release governance, and engineering practices.
